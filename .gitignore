@@ -1,5 +1,4 @@
-../.idea
-/assets
+/public
 build/node_modules
 package-lock.json
 yarn.lock
